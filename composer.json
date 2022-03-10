@@ -1,0 +1,18 @@
+{
+    "name": "kanep/hello-composer",
+    "description": "my first composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kanep\\HelloComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prajakta",
+            "email": "kane.prajakta@gmail.com"
+        }
+    ],
+    "require": {}
+}
